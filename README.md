@@ -12,7 +12,7 @@ With over 2 years of leadership experience, I have successfully managed ERP proj
 
 Key Skills
 
- Languages: Java, TypeScript
+ Languages: Java, TypeScript, Go
 
  Frameworks: Spring Boot, PrimeFaces, RichFaces, Ionic, React
 
