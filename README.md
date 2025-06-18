@@ -1,33 +1,31 @@
-English Version
-Software Engineer | Java Specialist | Full-Stack Developer | Team Leader
+Software Engineer | Java & Spring Boot Specialist | Performance & Cloud Optimization
 
-Passionate software engineer with expertise in Java, Spring Boot, Angular, and TypeScript. I have worked on projects using MVC, Maven, PostgreSQL, PrimeFaces, and Ionic. Skilled in REST APIs, Docker, Git/GitHub, and modern frameworks such as React and Ionic.
+Performance-focused Software Engineer with solid experience in backend and frontend development using Java, Spring Boot, Angular, and TypeScript. I’ve contributed to robust enterprise applications by applying clean architecture patterns (MVC), managing dependencies with Maven, and using relational databases like PostgreSQL and Oracle.
 
-With over 2 years of leadership experience, I have successfully delivered ERP solutions by applying PMI methodologies, managing teams, and ensuring customer satisfaction. Fluent in Portuguese, English, and Spanish, I thrive in multicultural environments and enjoy solving complex challenges.
-Key Skills:
+Skilled in developing and integrating RESTful APIs, I also bring hands-on experience with modern UI frameworks such as PrimeFaces, RichFaces, React, and Ionic. My DevOps toolkit includes Docker, Kubernetes, Git, and CI/CD pipelines with GitHub Actions.
 
-    Programming Languages: Java, Kotlin, TypeScript, JavaScript
-    Speaking Languages: English, Portuguese, Spanish
-    Frameworks: Spring Boot, Angular, RichFaces, PrimeFaces, Ionic
-    Databases: PostgreSQL, Oracle
-    Tools: Git, Docker, Swagger, Maven, ElasticSearch, AppDynamics (monitoring)
-    Leadership: Team management, PMI methodologies, Agile
+In cloud environments, I’ve used observability tools like Kibana and AppDynamics to monitor systems and reduce AWS infrastructure costs. I specialize in JVM tuning and Garbage Collector optimization, and I conduct load and stress testing using JMeter.
 
-Let’s connect and build innovative solutions together! 🚀
----------------------
+I’m experienced in building scalable microservices and implementing asynchronous communication using Apache Camel, ActiveMQ, and Kafka.
 
-Português
+With over 2 years of leadership experience, I have successfully managed ERP projects by applying PMI methodologies, leading cross-functional teams, and ensuring high client satisfaction. Fluent in Portuguese, English, and Spanish, I thrive in multicultural, fast-paced environments and enjoy solving complex technical challenges.
 
-Engenheiro de software apaixonado, com expertise em Java, Spring Boot, Angular e TypeScript. Trabalhei em projetos utilizando MVC, Maven, PostgreSQL, PrimeFaces e Ionic. Possuo habilidades em APIs REST, Docker, Git/GitHub e frameworks modernos como React e Ionic.
+Key Skills
 
-Com mais de 2 anos de experiência em liderança, entreguei com sucesso soluções ERP aplicando metodologias do PMI, gerenciando equipes e garantindo a satisfação dos clientes. Fluente em português, inglês e espanhol, prospero em ambientes multiculturais e gosto de resolver desafios complexos.
+ Languages: Java, TypeScript
 
-Principais Habilidades:
+ Frameworks: Spring Boot, PrimeFaces, RichFaces, Ionic, React
 
-    Linguagens: Java, Kotlin, TypeScript, JavaScript
-    Frameworks: Spring Boot, Angular, Richfaces, PrimeFaces, Ionic
-    Bancos de Dados: PostgreSQL, Oracle
-    Ferramentas: Git, Docker, Swagger, Maven, ElasticSearch, AppDynamics (monitoramento)
-    Liderança: Gestão de equipes, metodologias PMI, Agile
+ Databases: PostgreSQL, Oracle
 
-Vamos nos conectar e criar soluções inovadoras juntos! 🚀
+ DevOps & Cloud: Docker, Kubernetes, Git, GitHub Actions, AWS
+
+ Observability & Monitoring: Kibana, AppDynamics, ElasticSearch
+
+ Architecture: REST APIs, Microservices, Messaging (Apache Camel, ActiveMQ, Kafka)
+
+ Testing & Performance: JMeter, JVM & GC tuning
+
+ Project Management: Team leadership, PMI methodologies, Agile
+
+ Languages Spoken: Portuguese, English, Spanish
