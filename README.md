@@ -1,31 +1,43 @@
-Software Engineer | Java & Spring Boot Specialist | Performance & Cloud Optimization
+# Heitor Mello
 
-Performance-focused Software Engineer with solid experience in backend and frontend development using Java, Spring Boot, Angular, and TypeScript. I’ve contributed to robust enterprise applications by applying clean architecture patterns (MVC), managing dependencies with Maven, and using relational databases like PostgreSQL and Oracle.
+**Senior Java Backend Engineer moving into AI engineering.** 8+ years building microservices and cloud systems
+with Java and Spring Boot. Now applying that background to LLM integration: structured outputs, guardrails,
+evaluation and RAG with LangChain4j.
 
-Skilled in developing and integrating RESTful APIs, I also bring hands-on experience with modern UI frameworks such as PrimeFaces, RichFaces, React, and Ionic. My DevOps toolkit includes Docker, Kubernetes, Git, and CI/CD pipelines with GitHub Actions.
+Based in Brazil. Fluent in Portuguese, English and Spanish.
 
-In cloud environments, I’ve used observability tools like Kibana and AppDynamics to monitor systems and reduce AWS infrastructure costs. I specialize in JVM tuning and Garbage Collector optimization, and I conduct load and stress testing using JMeter.
+## Building now
 
-I’m experienced in building scalable microservices and implementing asynchronous communication using Apache Camel, ActiveMQ, and Kafka.
+| Project | What it is | Status |
+|---|---|---|
+| **evidence-gate** | Java 21 service that places an LLM between deterministic checks for sensitive text: redaction, verbatim citation checks, policy rules, content-free audit | In progress |
+| **ai-eng-lab** | Hands-on modules in Java: LLM basics, tool calling, MCP server, agent guardrails, with local models through Ollama | In progress |
 
-With over 2 years of leadership experience, I have successfully managed ERP projects by applying PMI methodologies, leading cross-functional teams, and ensuring high client satisfaction. Fluent in Portuguese, English, and Spanish, I thrive in multicultural, fast-paced environments and enjoy solving complex technical challenges.
+## Selected work
 
-Key Skills
+| Project | Highlights |
+|---|---|
+| [fipe-vehicle-valuation](https://github.com/hvmello/fipe-vehicle-valuation) | Java and Spring WebFlux with Angular. Reference-aware cache invalidation, bounded fan-out under a third-party rate limit, 56 backend tests, CI |
+| [goal-tracker-backend](https://github.com/hvmello/goal-tracker-backend) | Go REST API with PostgreSQL, rate limiting, Swagger, Docker and CI |
+| [just-a-cached-nosql-api](https://github.com/hvmello/just-a-cached-nosql-api) | Spring Boot API with Redis caching over MongoDB, in Docker |
+| [order-processor](https://github.com/hvmello/order-processor) | Java 21 concurrency: bounded thread pools and CompletableFuture pipelines |
 
- Languages: Java, TypeScript, Go
+## Skills
 
- Frameworks: Spring Boot, PrimeFaces, RichFaces, Ionic, React
+**AI engineering (current focus):** LLM integration, LangChain4j, structured outputs, guardrails, prompt injection defence, RAG, evals, MCP, Ollama
 
- Databases: PostgreSQL, Oracle
+**Backend:** Java, Spring Boot, Go, REST, microservices, Apache Kafka, Apache Camel, ActiveMQ
 
- DevOps & Cloud: Docker, Kubernetes, Git, GitHub Actions, AWS
+**Data:** PostgreSQL, Oracle, MongoDB, Redis
 
- Observability & Monitoring: Kibana, AppDynamics, ElasticSearch
+**Cloud and DevOps:** AWS, Docker, Kubernetes, GitHub Actions
 
- Architecture: REST APIs, Microservices, Messaging (Apache Camel, ActiveMQ, Kafka)
+**Performance and observability:** JVM and GC tuning, JMeter, Kibana, Elasticsearch, AppDynamics, AWS cost reduction
 
- Testing & Performance: JMeter, JVM & GC tuning
+**Frontend:** Angular, TypeScript, React
 
- Project Management: Team leadership, PMI methodologies, Agile
+**Leadership:** 2+ years leading ERP projects and cross-functional teams
 
- Languages Spoken: Portuguese, English, Spanish
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/heitormellosantos)
