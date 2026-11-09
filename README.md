@@ -10,8 +10,8 @@ Based in Brazil. Fluent in Portuguese, English and Spanish.
 
 | Project | What it is | Status |
 |---|---|---|
-| **evidence-gate** | Java 21 service that places an LLM between deterministic checks for sensitive text: redaction, verbatim citation checks, policy rules, content-free audit | In progress |
-| **ai-eng-lab** | Hands-on modules in Java: LLM basics, tool calling, MCP server, agent guardrails, with local models through Ollama | In progress |
+| [evidence-gate](https://github.com/hvmello/evidence-gate) | Java 21 service that places an LLM between deterministic checks for sensitive text: redaction, verbatim citation checks, policy rules, content-free audit | In progress |
+| [ai-eng-lab](https://github.com/hvmello/ai-eng-lab) | Hands-on modules in Java: LLM basics, tool calling, MCP server, agent guardrails, with local models through Ollama | In progress |
 
 ## Selected work
 
